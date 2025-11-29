@@ -183,7 +183,7 @@ Your algorithm identifies the **structure** of propaganda (high authority + low 
 
 I've released the extended version as **Epistemic Distrust Score (EDS v2)**:
 
-**Code**: [`epistemic_distrust_v2.py`](https://github.com/yourusername/epistemic-distrust) (380 lines, MIT license)
+**Code**: [`epistemic_distrust_v2.py`](https://github.com/VoidTactician/epistemic-distrust) (380 lines, MIT license)
 
 **Key function**:
 ```python
@@ -245,7 +245,7 @@ I've credited your original work in all documentation. A few questions:
 
 **Reproduce the comparison**:
 ```bash
-git clone https://github.com/yourusername/epistemic-distrust
+git clone https://github.com/VoidTactician/epistemic-distrust
 cd epistemic-distrust
 python epistemic_distrust_v2.py
 ```
@@ -276,9 +276,9 @@ Would love your thoughts on the extensions. If you see problems with the approac
 ---
 
 **Ryan**
-**GitHub**: @yourusername
-**Code**: [epistemic_distrust_v2.py](https://github.com/yourusername/epistemic-distrust)
-**Docs**: [ALGORITHM_COMPARISON.md](https://github.com/yourusername/epistemic-distrust/blob/main/ALGORITHM_COMPARISON.md)
+**GitHub**: @VoidTactician
+**Code**: [epistemic_distrust_v2.py](https://github.com/VoidTactician/epistemic-distrust)
+**Docs**: [ALGORITHM_COMPARISON.md](https://github.com/VoidTactician/epistemic-distrust/blob/main/ALGORITHM_COMPARISON.md)
 
 ---
 
@@ -302,7 +302,7 @@ Curious which you think is more epistemically sound.
 
 [2] This work. "Epistemic Distrust Score v2: Coordination Detection and Temporal Weighting." Nov 29, 2025.
 
-[3] Test results: https://github.com/yourusername/epistemic-distrust/benchmarks
+[3] Test results: https://github.com/VoidTactician/epistemic-distrust/benchmarks
 
 ---
 
